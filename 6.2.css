@@ -1,0 +1,25 @@
+
+.flex-container{display: flex;
+justify-content: center;
+justify-content: space-around;}
+
+div.d1{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    ;}
+  div.d2{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+  }
+  div.d3{ 
+   background-color: green ;
+    width: 200px;
+    height: 200px;
+  }
+  div.d4{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+  }
